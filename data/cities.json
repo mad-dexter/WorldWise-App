@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "4f9e",
+      "cityName": "Neemuch",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-10-25T14:42:43.334Z",
+      "notes": "My home",
+      "position": {
+        "lat": "24.472150437226876",
+        "lng": "74.95422363281251"
+      }
+    },
+    {
+      "id": "bc2c",
+      "cityName": "Chittaurgarh",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-10-25T14:43:12.336Z",
+      "notes": "Chittorgarh fort",
+      "position": {
+        "lat": "24.896402266558727",
+        "lng": "74.80041503906251"
+      }
+    },
+    {
+      "id": "9478",
+      "cityName": "Yukon Flats",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-12-02T15:40:44.922Z",
+      "notes": "It has some awesome Pizza places",
+      "position": {
+        "lat": "66.51326044311188",
+        "lng": "-147.65625000000003"
+      }
+    }
+  ]
+}
